@@ -1,2 +1,2 @@
 # CTF Write-Ups
-- [Syskron Security CTF 2019](./Syskron_Security_CTF_2019)
+- [Syskron Security CTF 2019](https://github.com/PhilippSchweinzer/CTFs/tree/master/Syskron%20Security%20CTF%202019)
