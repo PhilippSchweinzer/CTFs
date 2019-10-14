@@ -1,6 +1,6 @@
 # Enhanced PLC Encryption Standard
 ## Team
-SmashTrash: ctftime.org/team/86655
+SmashTrash: [CTFtime](https://ctftime.org/team/86655)
 
 ## Description
 Link to original on CTFtime: [Description](http://www.test.com "CTFtime challenge description")
@@ -18,7 +18,7 @@ Link to original on CTFtime: [Description](http://www.test.com "CTFtime challeng
 
 ## Files
 A log file called 20191003-epes-test.log was given and the content was a snipped of the self made encryption being used to transfer a message:
-INCLUDE PICTURE
+![20191003-epes-test.log](https://i.imgur.com/eOapqxL.png)
 
 
 ## Used tools
@@ -27,9 +27,13 @@ INCLUDE PICTURE
 
 ## Solution
 The problem was pretty straight forward: Go through every step of the self made encryption and try to reverse it.
+
 As a first step device A sends device B the so called challenge. This is the salt which is then added to every hash operation. The salt is transmitted in clear text.
+
 Then follow 24 messages consisting of a SHA-256 hash.
+
 Because the algorithm hashes every single character on its own it is trivila to brute-force it.
+
 I wrote a little python program to do so:
 
 ```python
@@ -82,5 +86,5 @@ The decrypted messages contained the flag.
 
 ## Flag
 ```
-test{never-roll-your-own-crypto}
+{never-roll-your-own-crypto}
 ```
