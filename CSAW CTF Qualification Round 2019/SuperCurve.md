@@ -1,4 +1,4 @@
-# Challenge Name
+# SuperCurve
 ## Team
 SmashTrash: [CTFtime](https://ctftime.org/team/86655)
 
