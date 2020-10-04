@@ -1,4 +1,4 @@
-# Challenge Name
+# CSP CTF Bypass Level 01
 ## Team
 Philogic (Solo)
 
