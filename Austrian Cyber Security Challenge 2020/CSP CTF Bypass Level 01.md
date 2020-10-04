@@ -4,6 +4,10 @@ Philogic (Solo)
 
 ## Description
 This challenge is about bypassing the CSP (Content-Security-Policy). Please start the service from RESOURCES and enter some java script. If you manage to get your own javascript being executed, you're good. 
+CSP: 
+```
+default-src 'self'; script-src 'nonce-MTMuMDUuMjAyMC8xNjo0Nw=='
+```
 
 ## Files
 - None
