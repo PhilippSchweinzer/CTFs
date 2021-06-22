@@ -1,11 +1,11 @@
-# Challenge Name
+# Phase Stream 2
 ## Team
 cyberwehr
 
 ## Description
 Link to original on CTFtime: [Description](https://ctftime.org/task/15689 "CTFtime challenge description")
 
-The aliens have learned of a new concept called "security by obscurity". Fortunately for us they think it is a great idea and not a description of a common mistake. We've intercepted some alien comms and think they are XORing flags with a single-byte key and hiding the result inside 9999 lines of random data, Can you find the flag?
+> The aliens have learned of a new concept called "security by obscurity". Fortunately for us they think it is a great idea and not a description of a common mistake. We've intercepted some alien comms and think they are XORing flags with a single-byte key and hiding the result inside 9999 lines of random data, Can you find the flag?
 
 ## Files
 file with 9999 newline-terminated strings
