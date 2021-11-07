@@ -36,8 +36,8 @@ Philipp Schweinzer - [CTFtime Acc](https://ctftime.org/user/64124)
 | 35th Classic CCC 2021 | Phil (Solo) |       32 / 96      |    325 / 1091    |
 | 33rd Classic CCC 2020 | Phil (Solo) |       5 / 21       |    172 / 1714    |
 |  33rd School CCC 2020 | Phil (Solo) |       10 / 14      |     192 / 665    |
-|  32nd School CCC 2019 | Phil (Solo) |       9 / 17       |     191 / 728    |
 | 32nd Classic CCC 2019 | Phil (Solo) |       5 / 23       |    330 / 1499    |
+|  32nd School CCC 2019 | Phil (Solo) |       9 / 17       |     191 / 728    |
 | 30th Classic CCC 2019 | Phil (Solo) |      102 / 189     |    650 / 1456    |
 |  30th School CCC 2019 | Phil (Solo) |      44 / 142      |     154 / 567    |
 | 29th Classic CCC 2018 | Phil (Solo) |      67 / 165      |    318 / 1262    |
