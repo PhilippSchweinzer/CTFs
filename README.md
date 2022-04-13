@@ -19,6 +19,7 @@ Philipp Schweinzer - [CTFtime Acc](https://ctftime.org/user/64124)
 ### CTF/hacking-style Events
 |               Event              |  Team/Solo |  Placement |
 |:--------------------------------:|:----------:|:----------:|
+|          Plaid CTF 2022          |  CrossFlag (Team) |  14 / 431  |
 |          zer0pts CTF 2022        |  cyberwehr (Team) |  40 / 632  |
 |          CInsect CTF 2022        |  cyberwehr (Team) |  12 / 120  |
 |          Stay ~/ CTF 2022        |     CSA (Team)    |   9 / 112  |
