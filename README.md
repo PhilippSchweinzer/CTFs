@@ -19,6 +19,7 @@ Philipp Schweinzer - [CTFtime Acc](https://ctftime.org/user/64124)
 ### CTF/hacking-style Events
 |               Event              |  Team/Solo |  Placement |
 |:--------------------------------:|:----------:|:----------:|
+| Faust CTF 2022 |  CybersecurityAustria (Team) |  28 / 200  |
 | Canadian CyberSci National Finals 2022 |  Team Austria (Team) |  2 / 10  |
 |          tenable CTF 2022        |  Resystance (Team) |  21 / 1357  |
 |          b01lers CTF 2022        |  cyberwehr (Team) |  33 / 1236  |
