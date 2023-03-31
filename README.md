@@ -42,7 +42,8 @@ Philipp Schweinzer - [CTFtime Acc](https://ctftime.org/user/64124)
 
 |         Event         |  Team/Solo  | Location Placement | Global Placement |
 |:---------------------:|:-----------:|:------------------:|:----------------:|
-| 36th Classic CCC 2021 | Phil (Solo) |       65 / 147      |    445 / 1248    |
+| 37th Classic CCC 2021 | Phil (Solo) |       40 / 149     |    255 / 1294    |
+| 36th Classic CCC 2021 | Phil (Solo) |       65 / 147     |    445 / 1248    |
 | 35th Classic CCC 2021 | Phil (Solo) |       32 / 96      |    325 / 1091    |
 | 33rd Classic CCC 2020 | Phil (Solo) |       5 / 21       |    172 / 1714    |
 |  33rd School CCC 2020 | Phil (Solo) |       10 / 14      |     192 / 665    |
