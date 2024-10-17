@@ -19,6 +19,11 @@ Philipp Schweinzer - [CTFtime Acc](https://ctftime.org/user/64124)
 ### CTF/hacking-style Events
 |               Event              |  Team/Solo |  Placement |
 |:--------------------------------:|:----------:|:----------:|
+|             justCTF Finals 2024           |  Team Austria (Team) |  8 / 31  |
+|             DownUnderCTF 2024           |  Team Austria (Team) |  11 / 1515  |
+|             UIUCTF 2024           |  Team Austria (Team) |  4 / 958  |
+|             justCTF Teaser 2024           |  Team Austria (Team) |  3 / 436  |
+|             ACSC Qualification 2024           |  Team Austria (Team) |  20 / 141  |
 |             Google CTF 2023           |  STPwners (Team) |  207 / 676  |
 |             TJCTF 2023           |  /dev/stp (Team) |  207 / 1047  |
 |          Plaid CTF 2023        |  CyberSecurityAustria (Team) |  42 / 622  |
