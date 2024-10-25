@@ -52,6 +52,7 @@ Philipp Schweinzer - [CTFtime Acc](https://ctftime.org/user/64124)
 
 |         Event         |  Team/Solo  | Location Placement | Global Placement |
 |:---------------------:|:-----------:|:------------------:|:----------------:|
+| 40th Classic CCC 2024 | Phil (Solo) |       25 / 242     |    153 / 1833    |
 | 39th Classic CCC 2024 | Phil (Solo) |       60 / 210     |    388 / 1701    |
 | 38th Classic CCC 2023 | Phil (Solo) |       18 / 164     |    136 / 1555    |
 | 37th Classic CCC 2023 | Phil (Solo) |       40 / 149     |    255 / 1294    |
